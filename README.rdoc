@@ -1,4 +1,3 @@
-This is now hotfix1
 Jane is updating the README file
 
 
